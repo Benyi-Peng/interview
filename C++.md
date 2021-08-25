@@ -21,3 +21,6 @@ https://blog.csdn.net/tong5956/article/details/74937178
 Linker
 https://www.airs.com/blog/archives/38
 https://www.airs.com/blog/archives/date/2007/08
+
+如何编写动态库
+https://www.akkadia.org/drepper/dsohowto.pdf
