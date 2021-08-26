@@ -24,3 +24,9 @@ https://www.airs.com/blog/archives/date/2007/08
 
 如何编写动态库
 https://www.akkadia.org/drepper/dsohowto.pdf
+
+
+
+
+atoi()函数和stoi()函数
+https://blog.csdn.net/zrh_CSDN/article/details/80712373
